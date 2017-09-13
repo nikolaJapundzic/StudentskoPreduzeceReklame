@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\Desktop\ANDROID\Filip\floater2\SP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24e2c5ea3eb5cd99ef2d94157219f6eabc39fe4c">
+        <dex dex="C:\Users\Nikola\Desktop\ANDROID\Filip\floater2\SP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_84b7a10911d11fe42abcd75087fb63c9298cc530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikola\Desktop\ANDROID\Filip\floater2\SP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Nikola\Desktop\ANDROID\Filip\floater2\SP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6e73157fba6448adc328f2c65bfca805fc383616\classes.dex" />
+    </item>
+
+</items>
